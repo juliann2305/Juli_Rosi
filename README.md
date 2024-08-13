@@ -1,2 +1,2 @@
 # Juli_Rosi
-Best friend forever alone 
+Best friends forever alone 
