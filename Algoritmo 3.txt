@@ -1,0 +1,37 @@
+Algoritmo para programa_de_ganancias_y_perdidas_en_un_negocio_de_venta_de_autos
+0. Iniciar
+1. Definir variables de precio de compra, costos, precio de venta, porcentaje de comisión
+2. Calcular el costo total invertido sumando el precio de compra por el costo de reparación 
+3. Calcular la comisión pagada multiplicando el precio de venta por la división de el porcentaje de comisión por 100
+4. Calcular la ganancia o pérdida restando el precio de venta, costo total invertido y la comisión 
+5. Mostrar resultados
+6. Finalizar 
+
+Pseudocódigo 
+Program Ganancias_y_perdidas_en_un_negocio_de_venta_de_autos 
+Start
+
+// programa que muestra las ganancias y pérdidas de un negocio de ventas de autos 
+Definir las variables
+precio de compra = 15000
+costos de reparacion = 2000
+precio de venta = 18500
+Porcentaje de comisión= 5
+
+// Calcular el costo total invertido
+Set Costo total invertido = precio de compra + costo de reparación 
+Display costo total invertido 
+
+// Calcular la comisión pagada 
+Set Comisión pagada = precio de venta *(porcentaje de comisión/100)
+Display comisión pagada 
+
+// Calcular la ganancia o pérdida
+Set Ganancia o perdida = precio de venta - costo total invertido - comisión 
+Display ganancia o pérdida 
+
+//Mostrar información 
+Display costo total invertido 
+Display comisión pagada
+Display ganancia o pérdida
+End

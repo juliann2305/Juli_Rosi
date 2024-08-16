@@ -1,0 +1,21 @@
+Algoritmo para Calculo_de_material_para_Construcción
+0. Iniciar
+1. Solicitar la entrada de pies cuadrados a cubrir al usuario
+2. Calcular las bolsas de cemento requeridas multiplicando 1,500 * área
+3. Mostrar el valor de las bolsas de cemento 
+4. Fin
+
+Pseudocódigo
+ Program  Calculo_material_para_construccion
+Start
+// Programa que muestra la cantidad de pies cuadrados a cubrir 
+Declare float pies cuadrados 
+Display “ingrese la cantidad de pies cuadrados”
+Input pies cuadrados 
+
+// Calculo de bolsas de cemento 
+Set Bolsas de cemento requeridas = pies^2 / 1.500
+
+// mostrar bolsas de cemento 
+Display bolsas de cemento 
+End

@@ -1,0 +1,30 @@
+Algoritmo para Información_de_un_producto
+0. Iniciar 
+1. Declarar las variables nombre, descripción, precio y código de barras de un producto 
+2. Mostrar variables 
+3. Finalizar 
+
+Pseudocódigo
+Program Información_de_un_producto
+Start
+//Programa que muestra la información de un producto 
+Declare string nombre 
+Declare string descripción 
+Declare float precio 
+Declare integer codigo de barras 
+
+//Obtener información
+Display "Por favor, Muestre/acerque el producto"
+Input producto
+Display "Por favor ingrese el nombre del producto"
+Input nombre 
+Display "Ingrese la descripción del producto"
+Input descripción 
+Display "Ingrese el precio del producto"
+Input precio
+Display "Ingrese el código de barras del producto"
+Input código de barras 
+
+//Mostrar Información 
+Display "Información de un producto", nombre: ". Descripción: ". Precio: ". Codigo de barras: ". 
+End
