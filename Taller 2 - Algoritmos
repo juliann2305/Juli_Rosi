@@ -19,3 +19,4 @@ Input producto
 
 //Mostrar Información 
 Display "Información de un producto", nombre: ". Descripción: ". Precio: ". Codigo de barras: ". 
+End
