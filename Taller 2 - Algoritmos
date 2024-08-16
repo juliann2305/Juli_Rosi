@@ -11,7 +11,7 @@ Start
 Declare string nombre 
 Declare string descripción 
 Declare float precio 
-Declare integre codigo de barras 
+Declare integer codigo de barras 
 
 //Obtener información
 Display "Por favor, Muestre/acerque el producto"
